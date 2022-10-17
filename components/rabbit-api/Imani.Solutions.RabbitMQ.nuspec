@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Imani.Solutions.RabbitMQ</id>
+    <version>0.0.1</version>
+    <title>Imani.Solutions.RabbitMQ</title>
+    <authors>green_gregory</authors>
+    <owners>green_gregory</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl> https://github.com/imani-solutions/Imani.Solutions.RabbitMQ</projectUrl>
+    <description>RabbitMq API solutions</description>
+    <releaseNotes>RabbitMQ API.</releaseNotes>
+    <copyright>Copyright 2022</copyright>
+    <tags>C# RabbitMQ API patterns</tags>
+  </metadata>
+</package>
