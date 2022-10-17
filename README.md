@@ -9,8 +9,6 @@ This project implements the [builder design pattern](https://en.wikipedia.org/wi
 Projects                                                                                                    | Notes
 ----------------------------------------------------------------------------------------------------------- | --------------------------
 [components/rabbit-api](https://github.com/ggreen/rabbitmq-dotNet-showCase/tree/main/components/rabbit-api) | RabbitMQ client facade API
-[applications/rabbit-qa-harness](https://github.com/ggreen/rabbitmq-dotNet-showCase/tree/main/applications/rabbit-qa-harness) | Rabbit Application client (supports producers and consumers)
-[applications/secret-encryption](https://github.com/ggreen/rabbitmq-dotNet-showCase/tree/main/applications/secret-encryption) | Generates a encrypted secret and or password based on a salt "CRYPTION_KEY" to be placed in an environment variable
 
 ## Environments or Input Properties
 
